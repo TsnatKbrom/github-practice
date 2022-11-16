@@ -1,5 +1,4 @@
-
-* {
+/* * {
   box-sizing: border-box;
 }
 
@@ -17,4 +16,23 @@
     display: table;
     
   }
-  
+   */
+*{
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    font-size: 4vh;
+}
+.nav{
+    justify-content: center;
+    background-color: rgba(65, 139, 236, 0.712);
+}
+.left{
+    background-color: aqua;
+}
+.right{
+    background-color: blueviolet;
+}
+.footer{
+    background-color: blanchedalmond;
+}
